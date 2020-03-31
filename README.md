@@ -38,4 +38,5 @@ Dans “Comme pour les stages”, il faut entendre qu'ici, seul l'un des trois r
 
 ## Soutenance
 
-Le document pdf fourni nous indique de nous référer au fichier soutenance_projet_tuteure_S3S4.pdf soi-disant disponible sur cours-info. Néanmoins, que ce soit sur Moodle ou sur Cours-info, le document n'existe pas.
+Le document pdf fourni nous indique de nous référer au fichier [soutenance_projet_tuteure_S3S4.pdf disponible sur cours-info](http://cours-info.iut-bm.univ-fcomte.fr/docs/ptut/soutenance_projet_tuteure_S3S4.pdf).
+Le diaporama à été débuté sur un [Google drive](https://docs.google.com/presentation/d/1xnV0j6ACYw7TXIPYz2tBS-x0Gl9_ZBhVYDqYbwRxVt8/edit?usp=sharing).
