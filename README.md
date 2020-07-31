@@ -30,7 +30,7 @@ Selon le document pdf envoyé par Mme Deschinkel, à la page 7 :
   * annexes,
   * table des matières ;
 * il doit retracer tout ce qui a été fait depuis le S3 avec une synthèse des fonctionnalités – partie réalisation ;
-* comme pour les stages, la partie réalisation ne doit pas seulement être un exposé de ce qui à été fait, mais également discuter les méthodes : **Expliquer “comment” les choses ont été faites et “pourquoi” elle l'on été de telle ou telle manière** ;
+* comme pour les stages, la partie réalisation ne doit pas seulement être un exposé de ce qui à été fait, mais également discuter les méthodes : **Expliquer “comment” les choses ont été faites et “pourquoi” elle l'ont été de telle ou telle manière** ;
 * le but sous-jacent est d'apporter ou du moins permettre une “critique constructive” de la façon de travailler. En gros on nous demande de copy-paste le cahier des charges en y ajoutant les difficultés rencontrées et d'expliquer comment elles ont été résolues ;
 * en outre, le bilan doit décrire ce qui a été ajouté ou amélioré depuis le S3 et ce qu'il reste à faire. Donc pour nous on va expliquer qu'on était au Québec et qu'on avait rien en S3. Quant à ce qu'il reste à faire… On verra.
 
